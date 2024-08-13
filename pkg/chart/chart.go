@@ -3,8 +3,8 @@ package chart
 import (
 	"io"
 
-	"github.com/dadav/helm-schema/pkg/util"
-	yaml "gopkg.in/yaml.v3"
+	"github.com/chivalryq/helm-schema/pkg/util"
+	"gopkg.in/yaml.v3"
 )
 
 type Dependency struct {

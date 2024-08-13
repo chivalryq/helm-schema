@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver/v3"
-	"github.com/dadav/helm-schema/pkg/chart"
+	"github.com/chivalryq/helm-schema/pkg/chart"
 	mapset "github.com/deckarep/golang-set/v2"
 )
 

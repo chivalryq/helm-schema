@@ -1,4 +1,4 @@
-module github.com/dadav/helm-schema
+module github.com/chivalryq/helm-schema
 
 go 1.21.0
 
